@@ -1,0 +1,133 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  sudo apt install
+    4  sudo apt install gcc
+    5  whoami
+    6  date
+    7  bc
+    8  echo$SHELL
+    9  printenvSHELL
+   10  echo $SHELL
+   11  printenv SHELL
+   12  whatis echo
+   13  whatis printenv
+   14  whatis whoami
+   15  whatis cat
+   16  whereis cat
+   17  whereis gcc
+   18  info cat
+   19  clear
+   20  date "+%D"
+   21  date "+%D%T"
+   22  date "+%Y-%m-%d"
+   23  date "+%Y/%m/%d"
+   24  date--date"tomorrow"
+   25  date --date"tomorrow"
+   26  date --date="tomorrow"
+   27  date --date="2 years ago"
+   28  man date
+   29  cal
+   30  sudo apt install ncall
+   31  call
+   32  cal
+   33  sudo apt install ncal
+   34  cal
+   35  cal 72025
+   36  cal 10 2025
+   37  cal -3
+   38  bc
+   39  bc<<<"12/5"
+   40  bc<<<"scale=2;12/5
+   41  bc
+   42  uname
+   43  uname -o
+   44  uname -i
+   45  uname -n
+   46  uname -v
+   47  uname -s
+   48  uname -m
+   49  uname -r
+   50  uname -a
+   51  echo "Welcome to Linux"
+   52  echo -e "Hello \t World"
+   53  echo "Welcome \t linux"
+   54  echo "Welcome to \"linux"quit
+   55  echo "Welcome to \"Linux"\""
+   56  quit
+   57  history
+   58  echo 
+   59  echo "This is
+Linux
+training
+for
+me"
+   60  print "Greatest of all time"
+   61  sudo apt install mailcap
+   62  printf "Greatest of all time(GOAT)"
+   63  /n
+   64  "My shell is %s/n" $SHELL
+   65  "My shell is %s/n"$SHELL
+   66  printf "My shell is %s\n" "SHELL"
+   67  echo $?
+   68  nano newfile
+   69  nano linux
+   70  ls
+   71  linux
+   72  ls -a
+   73  cd linux
+   74  cd new
+   75  mkdir new1 new2
+   76  ls
+   77  cd new1
+   78  cd new
+   79  ls
+   80  cd -
+   81  pwd
+   82  mkdir new1
+   83  mkdir newfile
+   84  mkdir stepin
+   85  ls
+   86  ls -l
+   87  ls -R
+   88  nano demo
+   89  wc linux
+   90  touch.newfile.txt
+   91  touch.linux.txt
+   92  touch newfile.txt
+   93  ls
+   94  nano newfile.txt
+   95  ls
+   96  whatis touch.newfile.txt
+   97  whatis touch
+   98  seq 1 10
+   99  seq 10-1 1
+  100  seq-s
+  101  seq-s""10
+  102  seq-s ""10
+  103  seq -s '' 10 -1 1
+  104  seq -s ' ' 10 -1 1
+  105  seq -s ',' 10 -1 1
+  106  seq 1 3 10
+  107  seq 10 3 20
+  108  ls
+  109  mv newfile.txt new
+  110  ls
+  111  rev<<<linux
+  112  rev<<<Dharaneesh
+  113  nano newfile
+  114  mv newfile.txt linux
+  115  mv new linux
+  116  nano linux
+  117  nano new
+  118  wc linux
+  119  rm -r new
+  120  rm -r new1
+  121  ls
+  122  rm -r stepin
+  123  ls
+  124  rm n*
+  125  cat cicd
+  126  cd..
+  127  seq 1 5 30
+  128  history
+  129  history > my_history.txt
